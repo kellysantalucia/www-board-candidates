@@ -49,7 +49,9 @@ Members will be able to verify progress through visible corporate engagement win
 **Challenge #1: Financial Sustainability and Funding Growth**
 OWASP’s growth and reach are limited by unpredictable revenue streams and dependence on sporadic sponsorships and event-based funding. This instability prevents investment in long-term projects and global initiatives.
 <br>
+
 Action Plan
+
 <br>
 - Expand Corporate Partnership Program: Create structured tiers tiers where organizations are recognized for supporting OWASP projects, chapters, and community growth, not just events or corporate support.
 - Grants and Public Funding: Proactively source government, foundation, and philanthropic grants that align with OWASP’s role in public-interest cybersecurity education alongside the OWASP staff
@@ -82,11 +84,13 @@ OWASP’s reputation is strong with AppSec professionals, but it lacks broader r
         - Function: Drive visibility through blogs, podcasts, social media campaigns, and integration of OWASP into local events or curricula.
         - Impact: Scales OWASP’s voice, creates consistent messaging, and engages diverse ecosystems.
 <br>
+
 Action Plan:
+
 <br>
-    - Create a centralized global marketing strategy that local chapters and projects can adapt, including social media campaigns, press outreach, and industry thought-leadership.
-    - Launch an OWASP Global Speakers Bureau - a vetted roster of industry experts, chapter and project leaders, and practitioners who can represent OWASP at global conferences, universities, and government roundtables. This ensures consistent messaging, thought-leadership presence, and greater brand visibility across different regions.
-    - Partner with universities to embed OWASP materials into curricula. Position Advocates as guest lecturers and Ambassadors as keynote speakers.
+- Create a centralized global marketing strategy that local chapters and projects can adapt, including social media campaigns, press outreach, and industry thought-leadership.
+- Launch an OWASP Global Speakers Bureau - a vetted roster of industry experts, chapter and project leaders, and practitioners who can represent OWASP at global conferences, universities, and government roundtables. This ensures consistent messaging, thought-leadership presence, and greater brand visibility across different regions.
+- Partner with universities to embed OWASP materials into curricula. Position Advocates as guest lecturers and Ambassadors as keynote speakers.
 Industry & Policy Engagement Ambassadors represent OWASP in government and industry alliances, while Advocates amplify OWASP’s success stories and impact within the network.
 <br>
 By addressing financial stability, chapter engagement, and marketing visibility, OWASP can significantly increase its global influence.
