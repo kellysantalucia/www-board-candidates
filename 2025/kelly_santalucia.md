@@ -50,7 +50,7 @@ OWASP’s growth and reach are limited by unpredictable revenue streams and depe
 <br>
 Action Plan
 <br>
-- Expand Corporate Partnership Program: Create structured tiers tiers where organizations are recognized for supporting OWASP projects, chapters, and community growth, not just events or corporate support.
+- Expand Corporate Partnership Program: Create structured tiers where organizations are recognized for supporting OWASP projects, chapters, and community growth, not just events or corporate support.
 - Grants and Public Funding: Proactively source government, foundation, and philanthropic grants that align with OWASP’s role in public-interest cybersecurity education alongside the OWASP staff
 - Individual Giving and Sustainers: Strengthen recurring donor programs with clear messaging around the global public good OWASP provides.
 <br>
