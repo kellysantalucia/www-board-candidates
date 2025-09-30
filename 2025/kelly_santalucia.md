@@ -21,7 +21,17 @@ I am me.  Welcome to my page.
 #### What open source contributions, research or visible leadership work have you done? If few, what 3 specific outcomes will you deliver in your first 90 days on the board in OWASP and how will members verify the progress?
 <br>
 <br>
-Answer
+**Open Source Contributions and Leadership**
+I am a long time OWASP member and the co-leader of the OWASP Virtual Chapter which was established earlier this year and led the OWASP EAR Project, where high-profile companies were interviewed to understand what benefits they would value most from OWASP in exchange for financially supporting the Foundation.
+<br>
+If elected to the board, in my first 90 days I will:
+<br>
+* Publish a corporate engagement plan alongside the OWASP staff, building on EAR findings to deliver valuable, sought after benefits for industry partners to help increase revenue for the Foundation.
+
+* Strengthen transparency by announcing board meetings in advance to the community, encouraging members to join and participate, and sharing quarterly progress reports on the Executive Director’s OKR’s with members of our community. 
+
+* Revitalize and accelerate OWASP projects by fostering stronger community contributions, providing clearer leadership support, and driving measurable progress. 
+Members will be able to verify progress through visible corporate engagement wins,  published updates, and expanded contributions that drive the development of more flagship projects.
 <br>
 <br>
 
