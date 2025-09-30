@@ -84,10 +84,10 @@ OWASP’s reputation is strong with AppSec professionals, but it lacks broader r
 <br>
 Action Plan:
 <br>
-    - Create a centralized global marketing strategy that local chapters and projects can adapt, including social media campaigns, press outreach, and industry thought-leadership.
-    - Launch an OWASP Global Speakers Bureau - a vetted roster of industry experts, chapter and project leaders, and practitioners who can represent OWASP at global conferences, universities, and government roundtables. This ensures consistent messaging, thought-leadership presence, and greater brand visibility across different regions.
-    - Partner with universities to embed OWASP materials into curricula. Position Advocates as guest lecturers and Ambassadors as keynote speakers.
-Industry & Policy Engagement Ambassadors represent OWASP in government and industry alliances, while Advocates amplify OWASP’s success stories and impact within the network.
+- Create a centralized global marketing strategy that local chapters and projects can adapt, including social media campaigns, press outreach, and industry thought-leadership.
+- Launch an OWASP Global Speakers Bureau - a vetted roster of industry experts, chapter and project leaders, and practitioners who can represent OWASP at global conferences, universities, and government roundtables. This ensures consistent messaging, thought-leadership presence, and greater brand visibility across different regions.
+- Partner with universities to embed OWASP materials into curricula. Position Advocates as guest lecturers and Ambassadors as keynote speakers.
+- Industry & Policy Engagement Ambassadors represent OWASP in government and industry alliances, while Advocates amplify OWASP’s success stories and impact within the network.
 <br>
 By addressing financial stability, chapter engagement, and marketing visibility, OWASP can significantly increase its global influence.
 <br>
@@ -96,9 +96,9 @@ By addressing financial stability, chapter engagement, and marketing visibility,
 <br>
 <br>
 If elected, I will push for the OWASP staff to launch an up to date 90-day project revitalization plan to address stale OWASP projects:
-    - By Day 30: Publish an up to date inventory of projects, categorizing them as active, stale, or unresponsive.
-    - By Day 60: For projects with unresponsive leads, recruit new leads from our community.
-    - By Day 90: Any projects still without active leadership will be formally marked dormant, with clear, published criteria for how new volunteers can relaunch them.
+- By Day 30: Publish an up to date inventory of projects, categorizing them as active, stale, or unresponsive.
+- By Day 60: For projects with unresponsive leads, recruit new leads from our community.
+- By Day 90: Any projects still without active leadership will be formally marked dormant, with clear, published criteria for how new volunteers can relaunch them.
 <br>
 This plan ensures that within three months, every OWASP project will have a visible status, an engaged leader, or a clear path forward. We can’t afford to let great ideas die in limbo. Together, we’ll keep OWASP’s projects thriving.
 <br>
